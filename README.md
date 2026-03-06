@@ -1,24 +1,36 @@
-# LLM Efficiency Framework
+# Clark Braxton
 
-A research-oriented framework for evaluating and optimizing transformer-based large language models.
+AI Research Scientist | Machine Learning Architect
 
-## Overview
-Large language models require significant computational resources during inference. 
-This project explores techniques for improving model efficiency while maintaining accuracy.
+I specialize in designing and deploying scalable artificial intelligence systems with a focus on large language models, natural language processing, and computer vision.
 
-## Features
-- Transformer inference benchmarking
-- Model quantization experiments
-- Latency and throughput evaluation
-- Automated performance analysis
+## Areas of Expertise
+- Large Language Models (LLMs)
+- Transformer Architectures
+- Natural Language Processing
+- Computer Vision
+- Model Optimization
+- AI Deployment Pipelines
 
 ## Tech Stack
-Python  
-PyTorch  
-Hugging Face Transformers  
-NumPy  
-Pandas
-## Applications
-- LLM deployment optimization
-- Performance benchmarking
-- AI research experimentation
+Python | PyTorch | TensorFlow | Hugging Face | Scikit-learn | AWS | Azure | GCP
+
+## Featured Projects
+
+### LLM Efficiency Framework
+Framework for benchmarking and optimizing transformer-based large language models.
+
+### Semantic Search Engine
+Embedding-based semantic search system for enterprise knowledge retrieval.
+
+### Vision Defect Detection
+Deep learning system for automated industrial defect detection using computer vision.
+
+## Certifications
+Microsoft Certified: Azure AI Engineer Associate  
+Machine Learning Engineering for Production (MLOps)
+
+## Research Interests
+- Efficient transformer architectures
+- Scalable AI infrastructure
+- Responsible AI and model interpretability
